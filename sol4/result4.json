@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2025.06.02",
+    "endPrice": "56,700",
+    "compareStatus": "상승",
+    "compareNumber": "500",
+    "marketPrice": "56,300",
+    "highestCost": "57,300",
+    "lowestCost": "56,200",
+    "tradingVolume": "9,453,202"
+  },
+  {
+    "date": "2025.05.30",
+    "endPrice": "56,200",
+    "compareStatus": "상승",
+    "compareNumber": "100",
+    "marketPrice": "56,200",
+    "highestCost": "57,200",
+    "lowestCost": "55,800",
+    "tradingVolume": "26,219,683"
+  },
+  {
+    "date": "2025.05.29",
+    "endPrice": "56,100",
+    "compareStatus": "상승",
+    "compareNumber": "200",
+    "marketPrice": "56,200",
+    "highestCost": "56,400",
+    "lowestCost": "55,600",
+    "tradingVolume": "12,936,810"
+  },
+  {
+    "date": "2025.05.28",
+    "endPrice": "55,900",
+    "compareStatus": "상승",
+    "compareNumber": "2,000",
+    "marketPrice": "54,300",
+    "highestCost": "56,100",
+    "lowestCost": "54,200",
+    "tradingVolume": "17,516,283"
+  },
+  {
+    "date": "2025.05.27",
+    "endPrice": "53,900",
+    "compareStatus": "하락",
+    "compareNumber": "800",
+    "marketPrice": "54,200",
+    "highestCost": "54,500",
+    "lowestCost": "53,800",
+    "tradingVolume": "13,439,520"
+  },
+  {
+    "date": "2025.05.26",
+    "endPrice": "54,700",
+    "compareStatus": "상승",
+    "compareNumber": "500",
+    "marketPrice": "53,900",
+    "highestCost": "55,000",
+    "lowestCost": "53,700",
+    "tradingVolume": "10,901,337"
+  },
+  {
+    "date": "2025.05.23",
+    "endPrice": "54,200",
+    "compareStatus": "하락",
+    "compareNumber": "500",
+    "marketPrice": "55,000",
+    "highestCost": "55,200",
+    "lowestCost": "54,100",
+    "tradingVolume": "11,247,115"
+  },
+  {
+    "date": "2025.05.22",
+    "endPrice": "54,700",
+    "compareStatus": "하락",
+    "compareNumber": "1,000",
+    "marketPrice": "55,300",
+    "highestCost": "55,500",
+    "lowestCost": "54,500",
+    "tradingVolume": "15,254,278"
+  },
+  {
+    "date": "2025.05.21",
+    "endPrice": "55,700",
+    "compareStatus": "하락",
+    "compareNumber": "200",
+    "marketPrice": "56,200",
+    "highestCost": "56,600",
+    "lowestCost": "55,700",
+    "tradingVolume": "7,794,181"
+  },
+  {
+    "date": "2025.05.20",
+    "endPrice": "55,900",
+    "compareStatus": "상승",
+    "compareNumber": "100",
+    "marketPrice": "56,200",
+    "highestCost": "56,700",
+    "lowestCost": "55,700",
+    "tradingVolume": "9,080,577"
+  }
+]
